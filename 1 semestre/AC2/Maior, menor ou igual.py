@@ -6,3 +6,4 @@ if b>a:
     print("B eh maior")
 if a==b:
     print("iguais")
+    
